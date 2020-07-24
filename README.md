@@ -1,0 +1,1 @@
+Code examples and exercises for book 'Doing Math with Python'
